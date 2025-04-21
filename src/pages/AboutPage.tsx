@@ -156,6 +156,7 @@ const AboutPage = () => {
                   Indian Institute of Technology (IIT) Kanpur, India
                 </a>{" "}
               </p>
+
               <p className="mb-4">
                 My research lies at the intersection of computer vision, natural
                 language processing (NLP), multimodal learning, and medical
@@ -172,7 +173,7 @@ const AboutPage = () => {
                 develop are both relevant and practical for real-world use.
               </p>
 
-              <p>
+              <p className="mb-4">
                 Prior to starting my PhD, I served as a Guest Lecturer at{" "}
                 <a
                   href="https://ecc.ac.in/"
@@ -189,7 +190,7 @@ const AboutPage = () => {
                 concepts to diverse student groups.
               </p>
 
-              <p>
+              <p className="mb-4">
                 In addition to my research, I am committed to education and
                 mentorship. I enjoy mentoring students, collaborating on
                 interdisciplinary projects, and guiding learners on their
@@ -198,13 +199,13 @@ const AboutPage = () => {
                 human-centered technology.
               </p>
 
-              <p>
+              <p className="mb-4">
                 I am also deeply interested in science communication, academic
                 writing, and bridging the gap between technology and society. My
                 work is driven by a vision to create responsible AI that serves
                 both clinicians and patients.
               </p>
-              <p>
+              <p className="mb-4">
                 I am always open to collaboration opportunities and discussions
                 about potential research projects. Please feel free to reach out
                 through my contact page.
