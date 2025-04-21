@@ -163,6 +163,7 @@ const AboutPage = () => {
                 not only technically sound but also usable, interpretable, and
                 impactful in real clinical workflows.
               </p>
+
               <p className="mb-4">
                 Currently, I am working on building AI-driven tools for medical
                 imaging and trauma classification, integrating multimodal
@@ -196,6 +197,7 @@ const AboutPage = () => {
                 my approach to research and fostering a deeper appreciation for
                 human-centered technology.
               </p>
+
               <p>
                 I am also deeply interested in science communication, academic
                 writing, and bridging the gap between technology and society. My
