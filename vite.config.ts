@@ -6,6 +6,6 @@ export default defineConfig(({ mode }) => {
 	return {
 		plugins: [react()],
 		// Base path for GitHub Pages deployment - change 'academic-portfolio' to your GitHub username
-		base: mode === 'production' ? '/academic-portfolio/' : '/',
+		base: mode === 'production' ? '/portfolio/' : '/',
 	};
 });
