@@ -209,12 +209,6 @@ const AboutPage = () => {
                 about potential research projects. Please feel free to reach out
                 through my contact page.
               </p>
-              <style>
-                .paragraph {
-                    margin-bottom: 20px;
-                 }
-              </style>
-
             </div>
           </motion.section>
 
